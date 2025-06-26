@@ -1,4 +1,4 @@
-# TrustWave AI: DeepFake Detection using Deep Learning (ResNext and LSTM)
+# TrustWave AI: DeepFake Video Detection using Deep Learning (ResNext and LSTM)
 
 Welcome to the TrustWave AI DeepFake Detection System repository! Our goal is to combat the proliferation of synthetic media by leveraging state-of-the-art deep learning techniques. DeepFake technology presents formidable challenges to media authenticity, and our system is designed to reliably detect manipulated content.
 
